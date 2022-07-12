@@ -2,6 +2,8 @@
 #include<string.h>
 #include<conio.h>
 
+//  Aim: To write a function in c++ that exchange (passing by reference) using swapping, interchange given two numbers.
+
 void swap(int *p1, int *p2)
 {
     int temp;
