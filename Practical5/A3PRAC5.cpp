@@ -3,6 +3,14 @@
 #include<string.h>
 #include<stdio.h>
 
+/*
+    Aim:
+    To write a program in C++ to input the given string (including spaces)
+    and reverse it using a function which locates the end of the string
+    and swap the first character with the last character,
+    the second character with second last character and so on.
+*/
+
 void main()
 {
     
