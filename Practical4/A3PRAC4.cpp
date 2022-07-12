@@ -1,6 +1,14 @@
 #include <iostream.h>
 #include <conio.h>
 
+/*
+    Aim:
+    To write a program in C++ that initializes an array of given 10 real numbers. 
+    The program should sort the number in ascending / descending order using the bubble sort method.
+    It should print the given list of numbers as well as sorted list.
+*/
+
+
 void main()
 {
     int i, a[10], temp, j;
